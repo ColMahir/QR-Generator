@@ -1,20 +1,31 @@
-# QR Code Generator (Python)
+---
 
-This is a simple Python program that generates a QR code for any URL entered by the user.
-Each QR code is saved as an image file, and the program automatically avoids overwriting existing files by renaming new ones.
+# 🔳 QR Code Generator 
 
-# Features
+A simple and beginner-friendly Python program that generates QR codes for any URL entered by the user. Each QR code is saved as an image file, and the program automatically avoids overwriting existing files by creating unique filenames.
 
-Generates QR codes from user-entered URLs
 
-Saves QR codes as .png images
+---
 
-Automatically creates unique filenames:
+# 🚀 Features
+
+- Generate QR codes from user-entered URLs
+
+- Save QR codes as .png images
+
+- Automatically create unique filenames:
 
 qrcode.png
-
 qrcode(1).png
-
 qrcode(2).png
 
-Very simple and beginner-friendly 
+-Lightweight and easy to use
+
+---
+
+
+
+
+
+ 
+ 
