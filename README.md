@@ -28,7 +28,7 @@ Database: SQLite (local .db file)
 Interface: CLI
 
 ---
-#Author
+# Author
 Ali Zubair Shah
 
 GitHub: https://github.com/K3rNel1
