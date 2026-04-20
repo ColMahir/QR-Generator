@@ -19,7 +19,7 @@ qrcode.png
 qrcode(1).png
 qrcode(2).png
 
--Lightweight and easy to use
+- Lightweight and easy to use
 
 ---
 # 🛠️ Tech Stack
